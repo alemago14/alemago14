@@ -1,26 +1,9 @@
 ### Hola 👋 soy Ale.
 
-package main
-
-import (
-	"fmt"
-)
-
-type Bio map[string]string
-
-func main() {
-	for k, v := range GetBio() {
-		fmt.Printf("%+v: %+v\n", k, v)
-	}
-}
-
-func GetBio() Bio {
-	return Bio{
-		"- ⚡ Decripcion rapida:              "Soy un desarrolador buscando sus primeras experiencias en el mundo IT, aca encontras ejercicios y proyectos que he realizado",
-		"- 🌱 Estoy Aprendiendo":            "Actualmente estoy practicando JavaScript y React",
-		"- 💬 Preguntame sobre":             "Java, C#, Git, SQL, .NET, SpringBoot, Spring Framework, HTML5, CSS, Web-Dev",
-	}
-}
+Soy un desarrolador que esta buscando sus primeras experiencias en el mundo IT, Estoy trabajndo con los lenguajes de programacion Java y C#
+Y sus respectivos frameworks SpringBoot y .NET; en la parte frontend desarrollo con HTML5 y CSS.
+Actualmente me encuentro aprendiendo JavaScript y React.
+A continuacion encontrara ejercicios y proyectos en los que he trabajado.
 
 <!--
 **alemago14/alemago14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
