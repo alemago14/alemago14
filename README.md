@@ -1,9 +1,6 @@
 ### Hola 👋 soy Ale.
 
-Soy un desarrolador que esta buscando sus primeras experiencias en el mundo IT, Estoy trabajndo con los lenguajes de programacion Java y C#
-Y sus respectivos frameworks SpringBoot y .NET; en la parte frontend desarrollo con HTML5 y CSS.
-Actualmente me encuentro aprendiendo JavaScript y React.
-A continuacion encontrara ejercicios y proyectos en los que he trabajado.
+¡Hola! Soy Alejandro, Técnico Universitario en programación, y estoy emocionado por encontrar nuevasoportunidades que me permitan seguir creciendo en el mundo del desarrollo de software. Me destaco en laprogramación de aplicaciones web. Poseo sólidos conocimientos tanto en Java, C# y Python. Experienciadesarrollando en Java con Spring Y Quarkus, dominio en la administración de bases de datos relacionales en SQLy MySQL. Implementación en el uso de herramientas de versionado, como Git; Pero tambien poseoconocimiento y experiencia en el frontend, trabajando con tecnologías como CSS, JavaScript y React.
 
 <!--
 **alemago14/alemago14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
