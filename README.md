@@ -1,6 +1,6 @@
 ### Hola 👋 soy Ale.
 
-¡Hola! Soy Alejandro, Técnico Universitario en programación, y estoy emocionado por encontrar nuevasoportunidades que me permitan seguir creciendo en el mundo del desarrollo de software. Me destaco en laprogramación de aplicaciones web. Poseo sólidos conocimientos tanto en Java, C# y Python. Experienciadesarrollando en Java con Spring Y Quarkus, dominio en la administración de bases de datos relacionales en SQLy MySQL. Implementación en el uso de herramientas de versionado, como Git; Pero tambien poseoconocimiento y experiencia en el frontend, trabajando con tecnologías como CSS, JavaScript y React.
+¡Hola! Soy Alejandro, Técnico Universitario en programación, y estoy emocionado por encontrar nuevas oportunidades que me permitan seguir creciendo en el mundo del desarrollo de software. Me destaco en la programación de aplicaciones web. Poseo sólidos conocimientos tanto en Java, C# y Python. Cuento con experiencia desarrollando en Java con Spring Y Quarkus, dominio en la administración de bases de datos relacionales en SQLy MySQL. Implementación en el uso de herramientas de versionado, como Git; Pero tambien poseo conocimiento y experiencia en el frontend, trabajando con tecnologías como CSS, JavaScript y React.
 
 <!--
 **alemago14/alemago14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
